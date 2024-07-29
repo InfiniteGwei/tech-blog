@@ -1,5 +1,5 @@
 baseURL = "https://infinitegwei.github.io/tech-blog/"
-title = "Gokarna"
+title = "SHEESH"
 theme = "gokarna"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -12,7 +12,7 @@ pygmentsStyle = "monokai"
 [params]
   footer = "The Marauders"
   description = "Sky above, sand below and peace within"
-  avatarURL = "tech-blog/images/avatar.webp"
+  avatarURL = "images/avatar.webp"
   AvatarAltText = "avatar"
   avatarSize = "size-m"
   ShowBackToTopButton = true # true or false for "back to top" button on posts
